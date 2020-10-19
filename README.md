@@ -1,0 +1,1 @@
+Este projeto foi concebido durante a semana NLW hosteada pela Rocketseat, na qual, desenvolvemos o aplicativo Happy, cuja função é realizar uma ponte entre casas de acolhimento e interessados em fazer a diferença na vida de crianças que precisam de atenção 
